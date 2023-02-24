@@ -1,6 +1,7 @@
 # w3bscantool.sh
 Escáner para detección de vulnerabilidades 
 El autor no se hace responsable por el mal uso que se le de a esta herramienta y es tu responsabilidad el uso que se le de 
+Esta herramienta puede instalar automaticamente las dependencias necesarias para su uso (Nmap ,gobuster ,nikto)
 instalcion : 
 Git clone https://github.com/Rodrigo47363/w3bscantool.sh/
 chmd +x w3bscantool.sh
