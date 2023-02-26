@@ -12,4 +12,4 @@ Ahora puedes ejecutar el archivo w3bscantool.sh con el siguiente comando, especi
 
 Ten en cuenta que esta herramienta puede instalar automáticamente las dependencias necesarias para su uso, como Nmap, gobuster y nikto, y que si esta herramienta te ayudó, siéntete libre de compartirla con cualquier persona que pueda necesitarla.
 
-Si deseas obtener más información sobre mis proyectos, visita mi perfil de Github en
+Si deseas obtener más información sobre mis proyectos, visita mi perfil de Github en https://github.com/Rootuser47363
